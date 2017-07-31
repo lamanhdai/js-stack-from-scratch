@@ -52,33 +52,16 @@ Works on Linux, macOS, and Windows.
 
 [09 - Travis, Coveralls, Heroku](/tutorial/09-travis-coveralls-heroku.md#readme)
 
-## Coming up next
+## Schedule
 
-Setting up your editor (Atom first), MongoDB, Progressive Web App, E2E testing.
-
-## Translations
-
-If you want to add your translation, please read the [translation recommendations](/how-to-translate.md) to get started!
-
-### V2
-
-- [Bulgarian](https://github.com/mihailgaberov/js-stack-from-scratch) by [mihailgaberov](http://github.com/mihailgaberov)
-- [Chinese (simplified)](https://github.com/yepbug/js-stack-from-scratch/) by [@yepbug](https://github.com/yepbug)
-- [French](https://github.com/naomihauret/js-stack-from-scratch/) by [Naomi Hauret](https://twitter.com/naomihauret)
-- [Italian](https://github.com/fbertone/guida-javascript-moderno) by [Fabrizio Bertone](https://github.com/fbertone) - [fbertone.it](http://fbertone.it)
-
-Check out the [ongoing translations](https://github.com/verekia/js-stack-from-scratch/issues/147).
-
-### V1
-
-- [Chinese (simplified)](https://github.com/pd4d10/js-stack-from-scratch) by [@pd4d10](http://github.com/pd4d10)
-- [Italian](https://github.com/fbertone/js-stack-from-scratch) by [Fabrizio Bertone](https://github.com/fbertone)
-- [Japanese](https://github.com/takahashim/js-stack-from-scratch) by [@takahashim](https://github.com/takahashim)
-- [Russian](https://github.com/UsulPro/js-stack-from-scratch) by [React Theming](https://github.com/sm-react/react-theming)
-- [Thai](https://github.com/MicroBenz/js-stack-from-scratch) by [MicroBenz](https://github.com/MicroBenz)
-
-## Credits
-
-Created by [@verekia](https://twitter.com/verekia) – [verekia.com](http://verekia.com/).
-
-License: MIT
+Week 1:
++ Using ES6 syntax by: eslint, flow, jest, husky
++ Setting up local development server to build web app: Express, Nodemon, and PM2
++ Learning basic react: Webpack, React, and Hot Module Replacement
+Week 2:
++ Making simple web application in react: Redux, Immutable, and Fetch
++ Continue some features in react: React Router, Server-Side Rendering, Helmet
++ Learning Socket.IO
+Week 3:
++ Build component with Bootstrap, JSS
++ Deploy web application with Heroku, Travis, Coveralls
