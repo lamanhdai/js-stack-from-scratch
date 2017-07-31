@@ -58,10 +58,12 @@ Week 1:
 + Using ES6 syntax by: eslint, flow, jest, husky
 + Setting up local development server to build web app: Express, Nodemon, and PM2
 + Learning basic react: Webpack, React, and Hot Module Replacement
+
 Week 2:
 + Making simple web application in react: Redux, Immutable, and Fetch
 + Continue some features in react: React Router, Server-Side Rendering, Helmet
 + Learning Socket.IO
+
 Week 3:
 + Build component with Bootstrap, JSS
 + Deploy web application with Heroku, Travis, Coveralls
