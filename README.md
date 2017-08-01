@@ -49,7 +49,7 @@ Week 1:
 + Setting up local development server to build web app: Express, Nodemon, and PM2
 + Learning basic react: Webpack, React, and Hot Module Replacement
 
-=> Build project have local development server
+=> Build project es6 with local development server
 
 
 Week 2: 
